@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Piparde</h1>
 <h3 align="center">🚀 Computer Science Student | Aspiring Software Engineer | Tech Explorer</h3>
 
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding gif"/>
-</p> -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MayankPiparde04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/MayankPiparde04?label=Followers&style=social" alt="GitHub followers" />
@@ -16,7 +12,6 @@
 
 🎓 B.Tech CSE | 2nd Year | AITR, Indore (RGPV, Bhopal)  
 💡 Exploring software dev, AI frameworks, multi-agent systems, and full-stack engineering  
-🥁 Ex-musician, 🪖 Sergeant @ NCC, 🎒 Tech enthusiast  
 🌍 Based in Indore, MP | Passionate about learning & innovation  
 
 ---
@@ -93,8 +88,6 @@
 - 🎓 B.Tech CSE (2022–2026), AITR Indore  
 - 📘 12th Grade – 82.4% (PCMB)  
 - 📗 10th Grade – 94.3%  
-- 📊 Elective: *Data Analysis & Visualization with Python*
-
 ---
 
 ## 🪖 Leadership & Highlights
@@ -109,7 +102,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayankPiparde04&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com/?user=MayankPiparde04&theme=github-dark" />
+<!--   <img src="https://streak-stats.demolab.com/?user=MayankPiparde04&theme=github-dark" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankPiparde04&layout=compact&theme=github_dark" />
 </p>
 
