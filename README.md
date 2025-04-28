@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Piparde</h1>
-<h3 align="center">🚀 Computer Science Student | Aspiring Software Engineer | Tech Explorer</h3>
+<h3 align="center">🚀 Computer Science Student | Aspiring Software Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MayankPiparde04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 B.Tech CSE | 2nd Year | AITR, Indore (RGPV, Bhopal)  
+🎓 B.Tech CSE | 3rd Year | AITR, Indore (RGPV, Bhopal)  
 💡 Exploring software dev, AI frameworks, multi-agent systems, and full-stack engineering  
 🌍 Based in Indore, MP | Passionate about learning & innovation  
 
@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -53,16 +52,16 @@
 ## 💼 Projects
 
 ### 🔹 ShipWise - Cost & Space Optimization Courier App (Minor Project 1)
-> 🧠 **Role:** Team Leader, Frontend Developer  
+> 🧠 **Role:** Frontend Developer  
 > 🚀 React-based solution to optimize courier packing and selection  
 > 📦 Features: carton size optimization, 3D visualization, courier cost comparison  
 > 🔗 [GitHub Repo](https://github.com/MayankPiparde04/Team-ShipWise)
 
 ### 🔹 KaaryaKram – Religious Commerce & Service Booking Platform (Minor Project 2)
+> 🧠 **Role:** Fullstack Developer 
 > 🛕 A web platform for quick delivery of religious items and booking verified pandits  
-> ⚙️ Built with React.js (frontend) and Node.js/Express with MongoDB (backend)  
+> ⚙️ Built with Next.js (frontend) and Node.js/Express with MongoDB (backend)  
 > 🔔 Includes features like pooja kits, pandit recall, order tracking, and festive discounts  
-> 🌍 Designed for culturally sensitive delivery of services in Indore & nearby regions  
 
 ### 🔹 Speech Language Therapy Clinical Services
 > 🌐 A full-stack platform with user roles: Admin, Therapist, Supervisor, and Patient  
@@ -94,7 +93,6 @@
 
 - Sergeant, **NCC** (3 years) – Led 33 cadets in training & drills  
 - Hackathon Finalist @ Dotslash Fitoor x Prayas  
-- Musician 🎵 in school cultural team  
 
 ---
 
