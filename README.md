@@ -76,10 +76,6 @@
 > 📱 Built with React Native + Firebase  
 > 🔐 Auth, Realtime Chat, Profile Pages, Cloud Storage
 
-### 🔹 Multi-Agent AI Framework (Microsoft AutoGen)
-> 🧠 Framework for Planner-Summarizer-Validator agents  
-> 🧩 Modular, extensible, YAML-configurable task orchestration
-
 ---
 
 ## 📚 Academics
