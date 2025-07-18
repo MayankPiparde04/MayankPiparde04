@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mayank Piparde</h1>
-<h3 align="center">🚀 Computer Science Student | Aspiring Software Engineer </h3>
+<h1 align="center">Hi 👋, I'm <b><i>Mayank Piparde</i></b></h1>
+<h3 align="center">🚀 Computer Science & Engineering Student | Aspiring Software Engineer | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MayankPiparde04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,9 +10,10 @@
 
 ## 🧑‍💻 About Me
 
-🎓 B.Tech CSE | 3rd Year | AITR, Indore (RGPV, Bhopal)  
-💡 Exploring software dev, AI frameworks, multi-agent systems, and full-stack engineering  
-🌍 Based in Indore, MP | Passionate about learning & innovation  
+🎓 Final Year B.Tech CSE (2022–2026) | AITR, Indore (RGPV, Bhopal)  
+💻 Passionate about software development and full-stack engineering  
+🚀 Actively exploring scalable architectures and building smart digital solutions  
+📍 Based in Indore, Madhya Pradesh | Driven by curiosity and innovation  
 
 ---
 
@@ -24,6 +25,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### 🌐 Frontend & Styling
@@ -35,7 +37,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-%23FFFFFF?style=for-the-badge&logo=shadcn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-white?style=for-the-badge&logo=shadcn&logoColor=black" />
 </p>
 
 ### 🔧 Backend & Tools
@@ -51,44 +53,51 @@
 
 ## 💼 Projects
 
-### 🔹 ShipWise - Cost & Space Optimization Courier App (Minor Project 1)
+### 🔹 NutriByte – Smart Ingredient Analyzer
+> 📊 SaaS platform to analyze food content from images or tables  
+> 🤖 Features: Visual data reports, AI assistant (REE), image/PDF upload, user dashboard  
+> 🛠️ Stack: Next.js, Node.js, MongoDB, Cloudinary, Gemini Flash API
+
+### 🔹 ShipWise – Courier Packing Optimizer
 > 🧠 **Role:** Frontend Developer  
-> 🚀 React-based solution to optimize courier packing and selection  
-> 📦 Features: carton size optimization, 3D visualization, courier cost comparison  
+> 📦 Optimizes carton size and courier costs with 3D visualization  
+> 🏆 HackTU 6.0 top-11 | Finalist at Dotslash Hackathon 
 > 🔗 [GitHub Repo](https://github.com/MayankPiparde04/Team-ShipWise)
 
-### 🔹 KaaryaKram – Religious Commerce & Service Booking Platform (Minor Project 2)
-> 🧠 **Role:** Fullstack Developer 
-> 🛕 A web platform for quick delivery of religious items and booking verified pandits  
-> ⚙️ Built with Next.js (frontend) and Node.js/Express with MongoDB (backend)  
-> 🔔 Includes features like pooja kits, pandit recall, order tracking, and festive discounts  
+### 🔹 KaaryaKram – Religious Services & E-Commerce
+> 🛕 Book verified pandits and pooja items online  
+> ⚙️ Next.js, Express, MongoDB stack  
+> 🎉 Includes order tracking, festive discounts, and dashboard
 
-### 🔹 Speech Language Therapy Clinical Services
-> 🌐 A full-stack platform with user roles: Admin, Therapist, Supervisor, and Patient  
-> 📅 Features: case management, session scheduling, file uploads, real-time notifications  
-> 🧰 Stack: React, Tailwind, Node.js/Django, PostgreSQL/MongoDB
+### 🔹 Speech Therapy Clinical Platform
+> 🧠 Roles for Admin, Therapist, Supervisor, and Patients  
+> 💬 Manages cases, schedules sessions, uploads files, sends notifications  
+> 🧰 React, Django/Node.js, PostgreSQL
 
-### 🔹 Student Skill Exchange Portal
-> 🤝 Connect students based on skill requirements and interests  
-> 🔍 Skill-based search, profile listings, connection feature
+### 🔹 Skill Exchange Portal
+> 🤝 Connects students by skills and interests  
+> 🔍 Search profiles, send connection requests
 
 ### 🔹 Basic Chat App
-> 📱 Built with React Native + Firebase  
-> 🔐 Auth, Realtime Chat, Profile Pages, Cloud Storage
+> 💬 Real-time chat with Firebase, React Native  
+> 🔐 Includes authentication and profile management
 
 ---
 
 ## 📚 Academics
 
-- 🎓 B.Tech CSE (2022–2026), AITR Indore  
-- 📘 12th Grade – 82.4% (PCMB)  
-- 📗 10th Grade – 94.3%  
+- 🎓 B.Tech in Computer Science & Engineering – AITR Indore (2022–2026)  
+- 🧮 12th Grade (PCMB) – 82.4%  
+- 📘 10th Grade – 94.3%
+
 ---
 
 ## 🪖 Leadership & Highlights
 
-- Sergeant, **NCC** (3 years) – Led 33 cadets in training & drills  
-- Hackathon Finalist @ Dotslash Fitoor x Prayas  
+- 🪖 **Sergeant**, NCC (3 Years) – Led 33 cadets through training, drills & camps  
+- 🏆 Hackathon Achievements:
+  - Finalist at Dotslash Hackathon – Fitoor x Prayas (2024) – Sustainability Track 🥈
+  - 4th Place at Code Fusion 2.0 (2025) – ShipWise Project
 
 ---
 
@@ -96,7 +105,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayankPiparde04&show_icons=true&theme=github_dark" />
-<!--   <img src="https://streak-stats.demolab.com/?user=MayankPiparde04&theme=github-dark" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankPiparde04&layout=compact&theme=github_dark" />
 </p>
 
@@ -108,18 +116,24 @@
   <a href="mailto:mayankpiparde20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_mayank_piparde_04_/">
+  <a href="https://www.instagram.com/m.eidomoon">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mayank-piparde-629729260/">
+  <a href="https://www.linkedin.com/in/mayankpiparde">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/mayankpiparde20">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/mayankpiparde">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/MayankPiparde04">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 > 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-> Keep learning, keep shipping 🚀
+> 🌱 Keep learning, keep shipping — one commit at a time 🚀
