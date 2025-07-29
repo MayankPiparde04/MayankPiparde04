@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <b><i>Mayank Piparde</i></b></h1>
+<h1 align="center">Hi 👋, I'm <b>Mayank Piparde</b></h1>
 <h3 align="center">🚀 Computer Science & Engineering Student | Aspiring Software Engineer | Tech Explorer</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Final Year B.Tech CSE (2022–2026) | AITR, Indore (RGPV, Bhopal)  
+🎓 Final Year B.Tech CSE (2022–2026) | AITR, Indore (RGTU, Bhopal)  
 💻 Passionate about software development and full-stack engineering  
 🚀 Actively exploring scalable architectures and building smart digital solutions  
 📍 Based in Indore, Madhya Pradesh | Driven by curiosity and innovation  
@@ -57,6 +57,7 @@
 > 📊 SaaS platform to analyze food content from images or tables  
 > 🤖 Features: Visual data reports, AI assistant (REE), image/PDF upload, user dashboard  
 > 🛠️ Stack: Next.js, Node.js, MongoDB, Cloudinary, Gemini Flash API
+> 🔗 [GitHub Repo](https://github.com/MayankPiparde04/NutriByte)
 
 ### 🔹 ShipWise – Courier Packing Optimizer
 > 🧠 **Role:** Frontend Developer  
@@ -68,6 +69,7 @@
 > 🛕 Book verified pandits and pooja items online  
 > ⚙️ Next.js, Express, MongoDB stack  
 > 🎉 Includes order tracking, festive discounts, and dashboard
+> 🔗 [GitHub Repo](https://github.com/MayankPiparde04/Kaaryakram)
 
 ### 🔹 Speech Therapy Clinical Platform
 > 🧠 Roles for Admin, Therapist, Supervisor, and Patients  
@@ -96,8 +98,9 @@
 
 - 🪖 **Sergeant**, NCC (3 Years) – Led 33 cadets through training, drills & camps  
 - 🏆 Hackathon Achievements:
+  - 11th Place at HackTU 6.0 Hackathon (2025) – 🥈
+  - 4th Place at Code Fusion 2.0 (2025) – ShipWise Project 🥈
   - Finalist at Dotslash Hackathon – Fitoor x Prayas (2024) – Sustainability Track 🥈
-  - 4th Place at Code Fusion 2.0 (2025) – ShipWise Project
 
 ---
 
@@ -122,7 +125,7 @@
   <a href="https://www.linkedin.com/in/mayankpiparde">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/mayankpiparde20">
+  <a href="https://www.hackerrank.com/mayankpiparde04">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/mayankpiparde">
